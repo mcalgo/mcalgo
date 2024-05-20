@@ -17,7 +17,8 @@ I thrive on challenges and enjoy developing high-performance solutions, especial
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux Server](https://img.shields.io/badge/-Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ISS Server](https://img.shields.io/badge/-ISS_Server-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
-![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS Badge](https://github.com/tu-usuario/tu-repo/blob/main/assets/aws_badge.png)
+
  
 ## Contact
  
