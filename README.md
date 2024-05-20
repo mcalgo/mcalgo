@@ -8,6 +8,7 @@ I thrive on challenges and enjoy developing high-performance solutions, especial
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![.netCore](https://img.shields.io/badge/-.net_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![VB.net](https://img.shields.io/badge/-VB.net-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/-SQLServer-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
