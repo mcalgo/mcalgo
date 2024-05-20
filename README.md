@@ -5,7 +5,8 @@ Hi! I'm a backend software developer and an open-source package contributor. I l
 I thrive on challenges and enjoy developing high-performance solutions, especially using my favorite language, C#.
  
 ## Skills
- 
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![.netCore](https://img.shields.io/badge/-.net_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
