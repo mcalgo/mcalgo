@@ -17,7 +17,8 @@ I thrive on challenges and enjoy developing high-performance solutions, especial
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux Server](https://img.shields.io/badge/-Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ISS Server](https://img.shields.io/badge/-ISS_Server-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
-![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-FF9900style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 ## Contact
  
