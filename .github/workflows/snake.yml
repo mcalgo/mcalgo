@@ -1,0 +1,51 @@
+# =============================================================================
+# Snake Contribution Animation
+# =============================================================================
+# This GitHub Action generates an animated SVG of a snake eating your
+# contribution graph. It runs daily and on every push to main.
+#
+# SETUP:
+# 1. Create a branch called "output" in your profile repo (mcalgo/mcalgo)
+#    → git checkout --orphan output && git commit --allow-empty -m "init" && git push origin output
+# 2. Place this file at: .github/workflows/snake.yml
+# 3. Push to main — the action will generate the SVGs automatically
+# =============================================================================
+
+name: Generate Snake Animation
+
+on:
+  # Runs automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *"
+  
+  # Also runs on every push to main
+  push:
+    branches:
+      - main
+  
+  # Allows manual trigger from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      # Generate the snake SVGs from your contribution graph
+      - name: Generate Snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      
+      # Push the generated SVGs to the "output" branch
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
