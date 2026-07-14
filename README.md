@@ -28,19 +28,29 @@
 ```csharp
 public sealed class SebastianArevalo : IDeveloper, ICreator
 {
-    public string Location    => "Colombia 🇨🇴";
-    public string[] Languages => ["C#", "Dart", "TypeScript", "PL/SQL", "Python"];
-    public string DayJob      => "Warehouse Management Systems @ Logistics Company";
+    public string Location     => "Colombia 🇨🇴";
+    public string[] Languages  => ["C#", "Dart", "TypeScript", "PL/SQL", "Python", "VB"];
+    public string[] Frameworks => ["Angular", ".Net", "Xamarin", "Flutter", "Node"]
+    public string DayJob       => "Warehouse Management Systems @ Logistics Company";
     public string Passion      => "Building Unwind — a social platform for real connections";
     
     public string[] Architecture => [
         "Domain-Driven Design",
         "Clean Architecture", 
         "CQRS + MediatR",
-        "Event-Driven"
+        "Event-Driven",
+        "Strangler fig"
+    ];
+
+    public string[] DesignPatterns => [
+        "Repository", "Unit of Work",
+        "Mediator", "Strategy",
+        "Factory", "Builder",
+        "Observer", "Decorator",
+        "Specification", "Singleton"
     ];
     
-    public string FunFact => "I think in C# and dream in Flutter widgets 💜";
+    public string FunFact => "I think and dream of great solutions 💜";
 }
 ```
 
@@ -59,8 +69,8 @@ public sealed class SebastianArevalo : IDeveloper, ICreator
 
 A social platform centered on shared experiences and events. Not another dating app — a place where real bonds form through real moments.
 
-**Backend:** `.NET Core` · `EF Core` · `MediatR` · `PostgreSQL` · `PostGIS`  
-**Frontend:** `Flutter` · `BLoC` · `GoRouter`  
+**Backend:** `.NET Core` · `EF Core` · `MediatR` · `PostgreSQL` · `PostGIS`, `MongoDb` , `python`
+**Frontend:** `Flutter` · `BLoC` · `GoRouter`
 **Arch:** `DDD` · `Clean Architecture` · `CQRS`
 
 </td>
