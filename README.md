@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&repeat=true&width=750&height=60&lines=.NET+Core+%7C+Flutter+%7C+DDD+%7C+Clean+Architecture;Open-source+contributor+and+product+builder" alt="Typing SVG" />
 </a>
-d
+
 <br/>
 
 <!-- PROFILE VIEWS & SOCIAL -->
