@@ -4,14 +4,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Sebastian%20Arevalo&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Building%20things%20that%20matter%20with%20C%23%20and%20Flutter&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- TYPING SVG -->
-<!--<a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&repeat=true&width=750&height=60&lines=.NET+Core+%7C+Flutter+%7C+DDD+%7C+Clean+Architecture;Open-source+contributor+and+product+builder" alt="Typing SVG" />
-</a>-->
-
+</a>
+d
 <br/>
 
 <!-- PROFILE VIEWS & SOCIAL -->
-<img src="https://komarev.com/ghpvc/?username=mcalgo&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" alt="Profile Views" />
+<!--<img src="https://komarev.com/ghpvc/?username=mcalgo&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" alt="Profile Views" />-->
 &nbsp;
 <a href="mailto:jarevalo.gomez@gmail.com">
   <img src="https://img.shields.io/badge/Email-jarevalo.gomez-6e40c9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
